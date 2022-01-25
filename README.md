@@ -4,5 +4,5 @@ commands
 git clone https://github.com/2r5/NXR
 cd NXR
 python2 crack.py
-user : Hajy
+user : hajy
 pass : up
